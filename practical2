@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int length = 70,bredth = 90,area;
+
+    area=length*bredth;
+    printf("the value of area %d",area);
+
+}
